@@ -19,10 +19,7 @@ Please refer to the Udacity instructions for setting up a GPU instance for this 
 - TensorFlow 1.x
 - Keras 2.x
 
-# Submission
-When you are ready to submit your project, do the following steps:
-1. Ensure you pass all points on the [rubric](https://review.udacity.com/#!/rubrics/1004/view).
-2. Submit the following in a zip file:
+# Important Files
   - `helper.py`
   - `machine_translation.ipynb`
   - `machine_translation.html`
